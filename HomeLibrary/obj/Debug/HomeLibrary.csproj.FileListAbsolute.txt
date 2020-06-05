@@ -1,0 +1,14 @@
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\bin\Debug\HomeLibrary.exe.config
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\bin\Debug\HomeLibrary.exe
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\bin\Debug\HomeLibrary.pdb
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.csprojAssemblyReference.cache
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.Properties.Resources.resources
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.csproj.GenerateResource.cache
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.csproj.CoreCompileInputs.cache
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.exe
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.pdb
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.AddChange.resources
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.BookInfo.resources
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.Instructions.resources
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.Main.resources
+E:\Programming\StudyProjects\C_Sharp\OOP\Kyrsovaya\HomeLibrary\HomeLibrary\HomeLibrary\obj\Debug\HomeLibrary.Inventorization.resources
